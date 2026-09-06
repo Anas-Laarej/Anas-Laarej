@@ -1,131 +1,260 @@
-# 👋 Hi, I'm Anas Laarej
+<div align="center">
 
-🎓 **Computer Engineering Student at EMSI**
-💻 **Software Developer | Full-Stack Developer**
-🚀 Interested in building practical, scalable and user-friendly applications.
+# 👋 Hi, I'm **Anas Laarej**
 
----
+### 💻 Software Developer | Full-Stack Developer
 
-## 🚀 About Me
+### 🎓 Computer Engineering Student @ EMSI
 
-I'm a Computer Engineering student at **EMSI**, passionate about software development and problem solving.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full-Stack+Developer;Python+%7C+Java+%7C+C%2B%2B;AI+%7C+APIs+%7C+Databases;Building+Real-World+Applications" alt="Typing SVG" />
 
-I'm currently developing my skills in **Full-Stack Development, Python, Java, C/C++, databases, APIs and Artificial Intelligence**.
+<br>
 
-I'm also looking for opportunities to gain professional experience through **internships and freelance projects**.
+<img src="https://komarev.com/ghpvc/?username=Anas-Laarej&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-* 🎓 Computer Engineering Student
-* 💻 Full-Stack Development
-* 🐍 Python
-* ☕ Java
-* ⚡ C / C++
-* 🌐 Web Development
-* 🗄️ SQL & Databases
-* 🤖 Artificial Intelligence & APIs
-* 🚀 Open to Internship & Freelance Opportunities
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
+
+I'm a **Computer Engineering student at EMSI**, passionate about software development, problem solving and building real-world applications.
+
+I enjoy developing applications that combine **backend development, web technologies, databases, APIs and Artificial Intelligence**.
+
+```text
+💻 Software Development
+🌐 Full-Stack Development
+🐍 Python
+☕ Java
+⚡ C / C++
+🤖 Artificial Intelligence
+🔌 REST APIs
+🗄️ SQL & Databases
+🔐 Authentication & Security
+🚀 Open Source
+```
+
+🎯 **Currently looking for:** Engineering internships & freelance opportunities.
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,js,django" />
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
-### 🔧 Tools
+### 🔧 Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 
----
+### 🤖 AI
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-### 🍽️ Zefran — Restaurant ERP & AI
-
-An ERP application designed for restaurant management, including an **Artificial Intelligence module based on BERT**.
-
-**Technologies:** Python, AI, BERT, SQL, Web Development
+</div>
 
 ---
 
-### ⚖️ Court Registry Management System
+# 📊 GitHub Statistics
 
-A web application designed to digitize and manage the **court registry (Greffe) of the Court of Cassation**.
+<div align="center">
 
-The system includes **bilingual Arabic/French OCR digitization** and facilitates the management and issuance of copies of judicial decisions.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anas-Laarej&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
 
-**Technologies:** Web Development, OCR, Arabic/French, APIs, Database
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Laarej&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
-### 🦷 Dental Clinic Management System
+# 🔥 GitHub Streak
 
-A management application for dental clinics covering:
+<div align="center">
 
-* 👤 Patient records
+<img src="https://streak-stats.demolab.com?user=Anas-Laarej&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Anas-Laarej/greffe-cassation">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anas-Laarej&repo=greffe-cassation&theme=transparent&hide_border=true" />
+
+</a>
+
+<a href="https://github.com/Anas-Laarej/authentication-api">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anas-Laarej&repo=authentication-api&theme=transparent&hide_border=true" />
+
+</a>
+
+</div>
+
+---
+
+## ⚖️ Court Registry Management System
+
+A web application designed to digitize and manage the **Court Registry (Greffe) of the Court of Cassation**.
+
+### ✨ Features
+
+* 📄 Judicial document digitization
+* 🔎 OCR processing
+* 🇫🇷 French / 🇲🇦 Arabic support
+* 🗂️ Document management
+* 📋 Case management
+* 📑 Copy issuance
+* 🔐 Authentication
+* 👥 User management
+* 🔌 API integration
+
+**Tech:** `Python` `Django` `OCR` `SQL` `JavaScript` `Bootstrap`
+
+🔗 **[View Project](https://github.com/Anas-Laarej/greffe-cassation)**
+
+---
+
+## 🔐 Authentication REST API
+
+A backend REST API designed for secure authentication and user management.
+
+### ✨ Features
+
+* 👤 User registration
+* 🔑 Login
+* 🔐 Password security
+* 🛡️ Protected endpoints
+* 🔌 REST API
+* 📡 API testing
+
+**Tech:** `Python` `Django` `REST API` `SQL`
+
+🔗 **[View Project](https://github.com/Anas-Laarej/authentication-api)**
+
+---
+
+## 🍽️ Zefran — Restaurant ERP & AI
+
+An ERP application designed to manage restaurant operations with an integrated **Artificial Intelligence module based on BERT**.
+
+### ✨ Features
+
+* 👥 User management
+* 📦 Restaurant management
+* 🗄️ Database management
+* 🤖 AI / NLP
+* 📊 Business data
+* 🔌 API integration
+
+**Tech:** `Python` `BERT` `AI` `SQL` `Web Development`
+
+---
+
+## 🦷 Dental Clinic Management System
+
+A management application designed for dental clinics.
+
+### ✨ Features
+
+* 👤 Patient management
 * 📅 Appointment management
-* 📋 Medical files
+* 📋 Medical records
 * 🩺 Consultations
 * 💊 Prescriptions
 * 💰 Billing
-* 👥 Admin / Doctor / Secretary roles
+* 👨‍⚕️ Doctor role
+* 👩‍💼 Secretary role
+* 🔐 Role-based access
 
-**Technologies:** Java, SQL, Database Management, OOP
-
----
-
-## 📚 Currently Learning
-
-* 🔥 Advanced Full-Stack Development
-* 🤖 Artificial Intelligence
-* 🌐 REST APIs
-* 🗄️ Database Architecture
-* ☁️ Cloud & Deployment
-* 🐳 Docker
-* 🔐 Software Security
+**Tech:** `Java` `SQL` `OOP` `Database`
 
 ---
 
-## 📊 GitHub Statistics
+# 🐍 My Contribution Snake
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anas-Laarej\&show_icons=true\&theme=transparent)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Laarej\&layout=compact\&theme=transparent)
+<img src="https://raw.githubusercontent.com/Anas-Laarej/Anas-Laarej/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build and publish more real-world projects
-* 💼 Find an engineering internship
-* 💻 Start working with freelance clients
-* 🤖 Develop AI-powered applications
-* 🌍 Collaborate on open-source projects
-* 📈 Continuously improve my software engineering skills
+</div>
 
 ---
 
-## 📫 Let's Connect
+# 📈 Contribution Activity
 
-* 💼 LinkedIn: [Anas Laarej](https://www.linkedin.com/in/laarej-anas-a2253b40b/)
-* 🐙 GitHub: [@Anas-Laarej](https://github.com/Anas-Laarej)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anas-Laarej&theme=github-compact&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+# 📚 Currently Learning
+
+```text
+🔥 Advanced Full-Stack Development
+🤖 Artificial Intelligence & Machine Learning
+🌐 REST API Architecture
+🗄️ Advanced Database Design
+☁️ Cloud & Deployment
+🐳 Docker
+🔐 Application Security
+🏗️ Software Architecture
+```
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] 🚀 Build more real-world applications
+* [ ] 💼 Secure an engineering internship
+* [ ] 💻 Start working with freelance clients
+* [ ] 🤖 Build AI-powered applications
+* [ ] 🌍 Contribute to open-source projects
+* [ ] ☁️ Learn cloud technologies
+* [ ] 🐳 Improve DevOps skills
+* [ ] 📈 Become a stronger software engineer
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/laarej-anas-a2253b40b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Anas-Laarej">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
