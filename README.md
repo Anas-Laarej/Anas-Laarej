@@ -98,8 +98,8 @@ I enjoy developing applications that combine **backend development, web technolo
 
 <div align="center">
 
-<a href="https://github.com/Anas-Laarej/greffe-cassation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anas-Laarej&repo=greffe-cassation&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Anas-Laarej/restaurant-management-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anas-Laarej&repo=restaurant-management-system&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Anas-Laarej/authentication-api">
@@ -133,7 +133,9 @@ A web application designed to **digitize and manage the Court Registry (Greffe) 
 
 `Python` `Django` `OCR` `SQL` `JavaScript` `Bootstrap` `REST API`
 
-🔗 **[View Repository](https://github.com/Anas-Laarej/greffe-cassation)**
+<!-- ⚠️ Ce repo n'existe pas encore sous ce nom sur GitHub (Anas-Laarej n'a que 3 repos publics).
+     Pousse-le sur GitHub puis remets ce lien : -->
+🔗 **View Repository** *(à publier — repo introuvable pour le moment)*
 
 ---
 
@@ -177,6 +179,8 @@ An ERP application designed to manage restaurant operations with an integrated *
 
 `Python` `BERT` `AI` `SQL` `Web Development`
 
+🔗 **[View Repository](https://github.com/Anas-Laarej/restaurant-management-system)**
+
 ---
 
 ## 🦷 Dental Clinic Management System
@@ -215,6 +219,8 @@ A management application designed for dental clinics.
 
 <div align="center">
 
+<!-- ⚠️ Cette image sera cassée tant que le workflow GitHub Actions n'est pas ajouté
+     au repo Anas-Laarej/Anas-Laarej (voir instructions en bas de fichier). -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-Laarej/Anas-Laarej/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-Laarej/Anas-Laarej/output/github-contribution-grid-snake.svg">
@@ -280,3 +286,47 @@ A management application designed for dental clinics.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 
 </div>
+
+<!--
+=====================================================================
+FIX POUR LE SERPENT (github-contribution-grid-snake) — à faire une fois :
+=====================================================================
+1. Dans le repo Anas-Laarej/Anas-Laarej → Settings → Actions → General
+   → autoriser "Read and write permissions" pour le GITHUB_TOKEN.
+2. Créer le fichier .github/workflows/snake.yml avec ce contenu :
+
+name: generate animation
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Anas-Laarej
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Push ce fichier sur la branche main puis lance le workflow manuellement
+   une première fois (Actions → generate animation → Run workflow).
+   La branche "output" sera créée et les 2 SVG deviendront valides.
+=====================================================================
+-->
