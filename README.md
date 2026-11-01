@@ -102,10 +102,6 @@ I enjoy developing applications that combine **backend development, web technolo
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anas-Laarej&repo=restaurant-management-system&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Anas-Laarej/authentication-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anas-Laarej&repo=authentication-api&theme=tokyonight&hide_border=true" />
-</a>
-
 </div>
 
 ---
@@ -136,28 +132,6 @@ A web application designed to **digitize and manage the Court Registry (Greffe) 
 <!-- ⚠️ Ce repo n'existe pas encore sous ce nom sur GitHub (Anas-Laarej n'a que 3 repos publics).
      Pousse-le sur GitHub puis remets ce lien : -->
 🔗 **View Repository** *(à publier — repo introuvable pour le moment)*
-
----
-
-## 🔐 Authentication REST API
-
-A backend REST API designed for secure authentication and user management.
-
-### ✨ Features
-
-- 👤 User registration
-- 🔑 Login
-- 🔐 Password protection
-- 🛡️ Protected endpoints
-- 🔌 REST API
-- 📡 API testing
-- 👥 User management
-
-### 🧰 Technologies
-
-`Python` `Django` `REST API` `SQL`
-
-🔗 **[View Repository](https://github.com/Anas-Laarej/authentication-api)**
 
 ---
 
